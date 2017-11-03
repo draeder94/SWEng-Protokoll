@@ -18,3 +18,5 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 
 #### Freitag 3.11
  - 10:00-11:30 Uhr; Gruppenmeeting, Besprechung der Designentwürfe, Gruppenmitglieder über Änderungen in GH-Pages und docute Nutzung aufgeklärt
+ - 14:00-15:30 Uhr; Praktikum, verbessertes Pflichtenheft, Vorträge zu API und Android Studio
+ - 16:00-16:20 Uhr; Github, Unterteams & Repos erstellt
