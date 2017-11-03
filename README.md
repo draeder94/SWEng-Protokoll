@@ -15,3 +15,6 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 
 #### Sonntag 29.10
  - 15:45-17:30 Uhr; Zum Partyplaner Repo eine GH-page zugefügt, welche Pflichtenheft, Teams und Protokolle darstellt.
+
+#### Freitag 3.11
+ - 10:00-11:30 Uhr; Gruppenmeeting, Besprechung der Designentwürfe, Gruppenmitglieder über Änderungen in GH-Pages und docute Nutzung aufgeklärt
