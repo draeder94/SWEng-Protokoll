@@ -21,8 +21,9 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
  - 14:00-15:30 Uhr; Praktikum, verbessertes Pflichtenheft, Vorträge zu API und Android Studio
  - 16:00-16:20 Uhr; Github, Unterteams & Repos erstellt
 
-### Dienstag 7.11
+#### Dienstag 7.11
  - 17:00-18:40 Uhr; Untersuchung von Docute, um mögliche Änderungen vorzunehmen, leider nicht Erfolgreich, zwecks mangeldem Vorwissen in JavaScript & Vue
 
-### Freitag 10.11
- - 9:50-11:00 Uhr; Gruppemeeting, Diskussion über evtl. Umverteilung von Teammitgliedern, Webdev Erfolge, Erklärung von Github Reviews
+#### Freitag 10.11
+ -  9:50-11:00 Uhr; Gruppemeeting, Diskussion über evtl. Umverteilung von Teammitgliedern, Webdev Erfolge, Erklärung von Github Reviews
+ - 14:00-15:30 Uhr; Praktikum, Vorstellung des DB Modells, Vorträge zur PaPla-API, Swift & iOS Entwicklung
