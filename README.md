@@ -3,27 +3,18 @@ SWEng-Protokoll
 
 Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 
-#### Freitag 20.10
- - 14:00-15:30 Uhr; Erstes Praktikum, Ideenfindung, Teamfindung
-
-#### Freitag 27.10
- - 10:00-11:30 Uhr; Gruppenmeeting, Pflichtenheft, Spezifizierung der Teams und ihrer Mitglieder
- - 14:00-15:30 Uhr; Praktikum, Vorstellung der Team Organisation
-
-#### Samstag 28.10
- - 12:00-13:30 Uhr; Arbeiten an Github & Docute Format für das Zusammenfassungs-Repo
-
-#### Sonntag 29.10
- - 15:45-17:30 Uhr; Zum Partyplaner Repo eine GH-page zugefügt, welche Pflichtenheft, Teams und Protokolle darstellt.
-
-#### Freitag 3.11
- - 10:00-11:30 Uhr; Gruppenmeeting, Besprechung der Designentwürfe, Gruppenmitglieder über Änderungen in GH-Pages und docute Nutzung aufgeklärt
- - 14:00-15:30 Uhr; Praktikum, verbessertes Pflichtenheft, Vorträge zu API und Android Studio
- - 16:00-16:20 Uhr; Github, Unterteams & Repos erstellt
-
-#### Dienstag 7.11
- - 17:00-18:40 Uhr; Untersuchung von Docute, um mögliche Änderungen vorzunehmen, leider nicht Erfolgreich, zwecks mangeldem Vorwissen in JavaScript & Vue
-
-#### Freitag 10.11
- -  9:50-11:00 Uhr; Gruppemeeting, Diskussion über evtl. Umverteilung von Teammitgliedern, Webdev Erfolge, Erklärung von Github Reviews
- - 14:00-15:30 Uhr; Praktikum, Vorstellung des DB Modells, Vorträge zur PaPla-API, Swift & iOS Entwicklung
+| Datum            | Tätigkeit                                                                                                                             | Aufwand  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Freitag 20.10    | Erstes Praktikum, Ideenfindung, Teamfindung                                                                                           | 90 min   |
+| Freitag 27.10    | Gruppenmeeting, Pflichtenheft, Spezifizierung der Teams und ihrer Mitglieder                                                          | 90 min   |
+| Freitag 27.10    | Praktikum, Vorstellung der Team Organisation                                                                                          | 90 min   |
+| Samstag 28.10    | Arbeiten an Github & Docute Format für das Zusammenfassungs-Repo                                                                      | 90 min   |
+| Sonntag 29.10    | Zum Partyplaner Repo eine GH-page zugefügt, welche Pflichtenheft, Teams und Protokolle darstellt.                                     | 105 min  |
+| Freitag 3.11     | Gruppenmeeting, Besprechung der Designentwürfe, Gruppenmitglieder über Änderungen in GH-Pages und docute Nutzung aufgeklärt           | 90 min   |
+| Freitag 3.11     | Praktikum, verbessertes Pflichtenheft, Vorträge zu API und Android Studio                                                             | 90 min   |
+| Freitag 3.11     | Github, Unterteams & Repos erstellt                                                                                                   | 20 min   |
+| Dienstag 7.11    | Untersuchung von Docute, um mögliche Änderungen vorzunehmen, leider nicht Erfolgreich, zwecks mangeldem Vorwissen in JavaScript & Vue | 100 min  |
+| Freitag 10.11    | Gruppemeeting, Diskussion über evtl. Umverteilung von Teammitgliedern, Webdev Erfolge, Erklärung von Github Reviews                   | 90 min   |
+| Freitag 10.11    | Praktikum, Vorstellung des DB Modells, Vorträge zur PaPla-API, Swift & iOS Entwicklung                                                | 90 min   |
+| Montag 13.11     | Einarbeitung in HTML, JS und Vue                                                                                                      | 240 min  |
+| Donnerstag 16.11 | Teammeeting Protokollschreiber                                                                                                        | 240 min  |
