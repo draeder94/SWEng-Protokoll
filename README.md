@@ -14,7 +14,10 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Freitag 3.11     | Praktikum, verbessertes Pflichtenheft, Vorträge zu API und Android Studio                                                             | 90 min   |
 | Freitag 3.11     | Github, Unterteams & Repos erstellt                                                                                                   | 20 min   |
 | Dienstag 7.11    | Untersuchung von Docute, um mögliche Änderungen vorzunehmen, leider nicht Erfolgreich, zwecks mangeldem Vorwissen in JavaScript & Vue | 100 min  |
-| Freitag 10.11    | Gruppemeeting, Diskussion über evtl. Umverteilung von Teammitgliedern, Webdev Erfolge, Erklärung von Github Reviews                   | 90 min   |
+| Freitag 10.11    | Gruppenmeeting, Diskussion über evtl. Umverteilung von Teammitgliedern, Webdev Erfolge, Erklärung von Github Reviews                  | 90 min   |
 | Freitag 10.11    | Praktikum, Vorstellung des DB Modells, Vorträge zur PaPla-API, Swift & iOS Entwicklung                                                | 90 min   |
 | Montag 13.11     | Einarbeitung in HTML, JS und Vue                                                                                                      | 240 min  |
-| Donnerstag 16.11 | Teammeeting Protokollschreiber                                                                                                        | 240 min  |
+| Donnerstag 16.11 | Arbeit mit HTML, CSS, JS, Aufbau der home website                                                                                     | 240 min  |
+| Freitag 17.11    | Gruppenmeeting, Arbeit am Web Frontend, Koordination mit Design Head                                                                  | 105 min  |
+| Freitag 17.11    | Praktikum, Vorstellung der HTML Arbeit, Vorträge über Kotlin und express.js                                                           | 70 min   |
+| Freitag 17.11    | Weitere Arbeit an HTML, Umsetzung von Responsive Design, Einarbeitung in SCSS                                                         | 90 min   |
