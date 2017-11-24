@@ -22,3 +22,5 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Freitag 17.11    | Praktikum, Vorstellung der HTML Arbeit, Vorträge über Kotlin und express.js                                                           | 70 min   |
 | Freitag 17.11    | Weitere Arbeit an HTML, Umsetzung von Responsive Design, Einarbeitung in SCSS                                                         | 90 min   |
 | Donnerstag 23.11 | Github aufgeräumt, alte Branches entfernt, mehr Arbeit am WebFrontend (Header + Footer etabliert, SCSS Stylesheets)                   | 240 min  |
+| Freitag 17.11    | Gruppenmeeting, Arbeit am Web Frontend, Fortschrittsvergleich, Einweisung des Teams in Webstorm                                       | 90 min   |
+| Freitag 17.11    | Praktikum, Vorstellung von iOS und Android Apps, überblick über Pflichtenheft und Diagramme, Verteilung neuer Aufgaben                | 50 min   |
