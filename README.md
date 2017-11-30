@@ -24,3 +24,4 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Donnerstag 23.11 | Github aufgeräumt, alte Branches entfernt, mehr Arbeit am WebFrontend (Header + Footer etabliert, SCSS Stylesheets)                   | 240 min  |
 | Freitag 17.11    | Gruppenmeeting, Arbeit am Web Frontend, Fortschrittsvergleich, Einweisung des Teams in Webstorm                                       | 90 min   |
 | Freitag 17.11    | Praktikum, Vorstellung von iOS und Android Apps, überblick über Pflichtenheft und Diagramme, Verteilung neuer Aufgaben                | 50 min   |
+| Donnerstag 30.11 | Review der Zusammenfassung; Arbeiten am WebFrontend repo, rebasing der dev Branches auf master                                        | 120 min  |
