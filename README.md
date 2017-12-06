@@ -25,3 +25,6 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Freitag 17.11    | Gruppenmeeting, Arbeit am Web Frontend, Fortschrittsvergleich, Einweisung des Teams in Webstorm                                       | 90 min   |
 | Freitag 17.11    | Praktikum, Vorstellung von iOS und Android Apps, überblick über Pflichtenheft und Diagramme, Verteilung neuer Aufgaben                | 50 min   |
 | Donnerstag 30.11 | Review der Zusammenfassung; Arbeiten am WebFrontend repo, rebasing der dev Branches auf master                                        | 120 min  |
+| Freitag 1.12     | Gruppenmeeting, Besprechung von API/Datenbank integration und Verbindungen zum Frontend                                               | 110 min  |
+| Freitag 1.12     | Praktikum, Vorstellung von API Tests, Vorstellung der Web-Frontend views, Überblick über Datenbank-Ansätze                            | 40 min   |
+| Mittwoch 6.12    | Arbeit mit JavaScript; Hilfsmethoden für REST und Login/-out, Umsetzung des Login Backends, Speicherung und Nutzung von API Keys      | 180 min   |
