@@ -27,4 +27,5 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Donnerstag 30.11 | Review der Zusammenfassung; Arbeiten am WebFrontend repo, rebasing der dev Branches auf master                                        | 120 min  |
 | Freitag 1.12     | Gruppenmeeting, Besprechung von API/Datenbank integration und Verbindungen zum Frontend                                               | 110 min  |
 | Freitag 1.12     | Praktikum, Vorstellung von API Tests, Vorstellung der Web-Frontend views, Überblick über Datenbank-Ansätze                            | 40 min   |
-| Mittwoch 6.12    | Arbeit mit JavaScript; Hilfsmethoden für REST und Login/-out, Umsetzung des Login Backends, Speicherung und Nutzung von API Keys      | 180 min   |
+| Mittwoch 6.12    | Arbeit mit JavaScript; Hilfsmethoden für REST und Login/-out, Umsetzung des Login Backends, Speicherung und Nutzung von API Keys      | 180 min  |
+| Freitag 8.12     | Gruppenmeeting, Absprachen mit API Team, Verfeinerung der Login Methoden                                                              | 150 min  |
