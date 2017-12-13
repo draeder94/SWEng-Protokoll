@@ -31,3 +31,4 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Freitag 8.12     | Gruppenmeeting, Absprachen mit API Team, Verfeinerung der Login Methoden                                                              | 150 min  |
 | Freitag 8.12     | Praktikum, Überblick zum Fortschritt der Arbeit, Besprechung mit dem Frontendteam über besere Git Integration                         | 90 min   |
 | Dienstag 12.12   | Arbeit an Zusammenfassung, Vorlesung 9; Arbeit in github, Bereinigung alter Branches, Update von GH-Pages                             | 140 min  |
+| Mittwoch 13.13   | Arbeit am WebFrontend: Profilseite, partielle Anbindung an API unter Nutzung von Vue                                                  | 260 min  |
