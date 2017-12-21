@@ -34,3 +34,4 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Mittwoch 13.13   | Arbeit am WebFrontend: Profilseite, partielle Anbindung an API unter Nutzung von Vue                                                  | 260 min  |
 | Freitag 15.12    | Gruppenmeeting, Vorstellung: Kanban in GitHub, Absprachen mit API team bzgl. CORS                                                     |  90 min  |
 | Freitag 15.12    | Praktikum, Diskussion über Bild Up-/Download, Absprache mit Datenbank bzgl. Geschlecht, Differenzierung der Profilseite nach Nutzer   |  90 min  |
+| Donnerstag 21.12 | Arbeit am WebFrontend: Implementation eines modularen Popup Systems, Implementation des Löschens von User Profilen                    | 250 min  |
