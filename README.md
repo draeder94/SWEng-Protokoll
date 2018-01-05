@@ -36,3 +36,6 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Freitag 15.12    | Praktikum, Diskussion über Bild Up-/Download, Absprache mit Datenbank bzgl. Geschlecht, Differenzierung der Profilseite nach Nutzer   |  90 min  |
 | Donnerstag 21.12 | Arbeit am WebFrontend: Implementation eines modularen Popup Systems, Implementation des Löschens von User Profilen                    | 250 min  |
 | Dienstag 2.1     | Arbeit am WebFrontend: Darstellung von Veranstaltungen auf Nutzer Profilen                                                            |  90 min  |
+| Freitag 5.1      | Gruppenmeeting: Diskussion von Milestones in Bezug auf die Abgabe; Arbeit am WebFrontent: Pull von Poppe's Arbeit, fixes              | 110 min  |
+| Freitag 5.1      | Praktikum: Diskussion über Projektende und Präsentationen; Arbeit am WebFrontend: wahlweise fixes, merge von Kirzhner's Arbeit        |  90 min  |
+| Freitag 5.1      | Arbeit am WebFrontend: Anfängliche Implementation des Kontaktlisten popups                                                            |  60 min  |
