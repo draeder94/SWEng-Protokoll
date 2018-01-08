@@ -41,3 +41,4 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Freitag 5.1      | Arbeit am WebFrontend: Anfängliche Implementation des Kontaktlisten popups                                                            |  90 min  |
 | Sonntag 7.1      | Arbeit am WebFrontend: Suchfunktion für Kontakte                                                                                      | 160 min  |
 | Sonntag 7.1      | Arbeit am WebFrontend: Vollständige Implementierung der Logout Funktion, Automatische Weiterleitung vom Index, kosmetisches am Profil |  60 min  |
+| Montag 8.1       | Arbeit am WebFrontend: Bessere Nutzung von Vue in Home und Profile, For loops und Verbesserung des Style                              |  90 min  |
