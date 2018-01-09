@@ -42,3 +42,4 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Sonntag 7.1      | Arbeit am WebFrontend: Suchfunktion für Kontakte                                                                                      | 160 min  |
 | Sonntag 7.1      | Arbeit am WebFrontend: Vollständige Implementierung der Logout Funktion, Automatische Weiterleitung vom Index, kosmetisches am Profil |  60 min  |
 | Montag 8.1       | Arbeit am WebFrontend: Bessere Nutzung von Vue in Home und Profile, For loops und Verbesserung des Style                              |  90 min  |
+| Dienstag 9.1     | Arbeit am WebFrontend: Eigene Veranstaltungen auf Vue umgestellt, Upload von Profilbildern quasi Fertig (warte auf backend)           |  90 min  |
