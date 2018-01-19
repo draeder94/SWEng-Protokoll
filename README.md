@@ -46,3 +46,5 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Freitag 12.1     | Gruppenmeeting: Abstimmung mit API bzgl. Bilderupload; Implementation von Profilbild-Upload, Anfang Kontakte löschen                  | 115 min  |	
 | Freitag 12.1     | Praktikum: Vorstellung des Projektfortschritts; Arbeit am WebFrontend: Kontakte löschen, grafische Updates, fix der logout Funktion   |  90 min  |
 | Freitag 19.1     | Gruppenmeeting: Roadmap für die Letzte Woche, Umarbeiten der Party-Seite auf gute Vue Anbindung                                       | 160 min  |
+| Freitag 19.1     | Praktikum, Arbeit am WebFrontend: Umstellung der Party auf Vue, Anfang der Aufgabenliste                                              |  90 min  |
+| Freitag 19.1     | Arbeit am WebFrontend: Vollständige Implementierung der Aufgabenliste                                                                 | 220 min  |
