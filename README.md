@@ -48,3 +48,4 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Freitag 19.1     | Gruppenmeeting: Roadmap für die Letzte Woche, Umarbeiten der Party-Seite auf gute Vue Anbindung                                       | 160 min  |
 | Freitag 19.1     | Praktikum, Arbeit am WebFrontend: Umstellung der Party auf Vue, Anfang der Aufgabenliste                                              |  90 min  |
 | Freitag 19.1     | Arbeit am WebFrontend: Vollständige Implementierung der Aufgabenliste                                                                 | 220 min  |
+| Samstag 20.1     | Arbeit am WebFrontend: Party-Seite: Neue Party, Tabs, Gästeliste+zufügen; Home-Seite: Annehmen, Ablehnen; Profil-Seite: Kontakte      | 220 min  |
