@@ -50,3 +50,4 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Freitag 19.1     | Arbeit am WebFrontend: Vollständige Implementierung der Aufgabenliste                                                                 | 220 min  |
 | Samstag 20.1     | Arbeit am WebFrontend: Party-Seite: Neue Party, Tabs, Gästeliste+zufügen; Home-Seite: Annehmen, Ablehnen; Profil-Seite: Kontakte      | 255 min  |
 | Samstag 20.1     | Arbeit am WebFrontend: Diverse fixes nach API Änderungen                                                                              | 120 min  |
+| Dienstag 23.1    | Arbeit am WebFrontend: Gästeliste, Bewertung vollständig, Anfang von Kommentaren                                                      | 540 min  |
