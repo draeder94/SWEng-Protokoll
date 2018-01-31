@@ -52,3 +52,5 @@ Arbeitsprotokoll für Software Engineering, WS1718, FH-Bielefeld
 | Samstag 20.1     | Arbeit am WebFrontend: Diverse fixes nach API Änderungen                                                                              | 120 min  |
 | Dienstag 23.1    | Arbeit am WebFrontend: Gästeliste, Bewertung vollständig, Anfang von Kommentaren                                                      | 540 min  |
 | Mittwoch 24.1    | Meeeting zur Präsentationsplanung                                                                                                     | 150 min  |
+| Donnerstag 25.1  | Arbeit am WebFrontend: Aufgaben mit Null usern zum freiwillig melden                                                                  | 150 min  |
+| Freitag 26.1     | Livestellung der Website, diverse fixes am Live modell, Präsentationsplanung und -übung                                               | 240 min  |
